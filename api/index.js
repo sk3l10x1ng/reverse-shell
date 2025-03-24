@@ -1,6 +1,6 @@
 'use strict';
 
-const usage = `# Reverse Shell as a Service
+const usage = `
 #
 # 1. On your machine:
 #      nc -l 1337
